@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Local Vector DB & uploads
+chroma_db/
+uploads/*
+!uploads/.gitkeep
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+setup_github.py
