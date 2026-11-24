@@ -5,6 +5,4 @@ langchain-chroma
 langchain-text-splitters
 pypdf
 beautifulsoup4
-fastapi
-uvicorn
-pydantic
+streamlit
